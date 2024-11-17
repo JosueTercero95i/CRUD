@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|c:\\users\\pc\\source\\repos\\agenda\\agenda\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|C:\\Users\\PC\\source\\repos\\Agenda\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|C:\\Users\\PC\\source\\repos\\Agenda\\agenda\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\editar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|C:\\Users\\PC\\source\\repos\\Agenda\\agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|C:\\Users\\PC\\source\\repos\\Agenda\\agenda\\editar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ACF2BB9-F1EB-4031-AFE7-209F290552F9}|Agenda\\Agenda.csproj|solutionrelative:agenda\\editar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.Designer.cs",
+              "RelativeDocumentMoniker": "Agenda\\Editar.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.Designer.cs",
+              "RelativeToolTip": "Agenda\\Editar.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAwMsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:36:17.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Editar.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.cs",
+              "RelativeDocumentMoniker": "Agenda\\Editar.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.cs",
+              "RelativeToolTip": "Agenda\\Editar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:07:09.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.cs",
+              "RelativeDocumentMoniker": "Agenda\\Editar.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Editar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Agenda\\Editar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:01:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Form1.cs",
+              "RelativeToolTip": "Agenda\\Form1.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:35:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Form1.cs",
+              "RelativeDocumentMoniker": "Agenda\\Form1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Agenda\\Agenda\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Agenda\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:29:46.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

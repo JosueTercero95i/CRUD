@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\MaterialSkin.dll
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.Form1.resources
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.csproj.Up2Date
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Agenda\Agenda\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Agenda\Agenda\obj\Debug\Agenda.Editar.resources
